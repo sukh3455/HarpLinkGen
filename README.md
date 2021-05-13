@@ -137,13 +137,13 @@ Feel free to contribute to this project if you have any further ideas
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhySooSerious)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhyThisUsername)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/harp_tech)
+[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/harp_chat)
 
-You can contact either via my [Telegram Chat](https://xn--r1a.click/WhyThisUsername) or you can PM me on [@EverythingSuckz](https://xn--r1a.click/EverythingSuckz)
+You can contact either via my [Telegram Chat](https://telegram.me/harp_chat) or you can PM me on [@Anjana_Ma](https://telegram.me/Anjana_Ma)
 
 ## Credits
 
-- Me
+- [EverythingSuckz](https://github.com/EverythingSuckz/TG-FileStreamBot) For his repo
 - [eyaadh](https://github.com/eyaadh) for his awesome [Megatron Bot](https://github.com/eyaadh/megadlbot_oss)
 - [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
