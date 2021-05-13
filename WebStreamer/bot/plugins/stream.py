@@ -15,5 +15,5 @@ async def media_receive_handler(c: Client, m: Message):
                                 Var.PORT,
                                 log_msg.message_id)
     await m.reply_text(
-        text="`{}`".format(stream_link)
+        text="__Your Download Link Generated 🔥 Download from below link 👇\nLink: {}__".format(stream_link)
     )
