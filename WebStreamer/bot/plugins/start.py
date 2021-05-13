@@ -14,7 +14,7 @@ async def start(b, m):
                           [
                               InlineKeyboardButton(
                                   f'🌀 Channel 🌀',
-                                  url='https://github.com/EverythingSuckz/TG-FileStreamBot'
+                                  url='https://t.me/harp_tech'
                               )
                           ]
                       ]
