@@ -65,7 +65,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Heroku
 
-Press the below button to Fast deply to Heroky
+Press the below button to Fast deploy to Heroky
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
